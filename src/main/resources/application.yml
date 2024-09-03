@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: MatritsaniOsinshTartibidaChiqarish
+
+server:
+  port: 8085
